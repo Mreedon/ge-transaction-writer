@@ -1,0 +1,6 @@
+<project>
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.runelite.client.plugins</groupId>
+  <artifactId>ge-transaction-writer</artifactId>
+  <version>1.0</version>
+</project>
